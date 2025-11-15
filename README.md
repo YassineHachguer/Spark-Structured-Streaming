@@ -1,4 +1,4 @@
-# park Structured Streaming avec HDFS (Docker)
+# Spark Structured Streaming avec HDFS (Docker)
 
 ## Objectif
 
